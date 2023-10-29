@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">intempus</string>
+    <string name="check_in">Check in</string>
+    <string name="loading">Loading</string>
+    <string name="change_time">Change time"</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="check_in_time_future_error">Check in time can not be in the future</string>
+
+</resources>
